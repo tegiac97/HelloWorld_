@@ -1,0 +1,8 @@
+﻿  cplusplus.cpp
+e:\documents\visual studio 2017\projects\helloworld\helloworld\cplusplus.cpp(19): warning C4552: '>': result of expression not used
+  Generating code
+  1 of 6 functions (16.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HelloWorld.vcxproj -> E:\Documents\Visual Studio 2017\Projects\HelloWorld\Release\HelloWorld.exe
