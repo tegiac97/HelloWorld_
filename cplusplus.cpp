@@ -83,4 +83,6 @@ int timAccount(list l, char account[10]) {
 	else return 0;
 }
 
-void xoaMSNV(list l, char msnv[10], char )
+void xoaMSNV(list l, char msnv[10]) {
+	
+}
